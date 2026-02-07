@@ -1,0 +1,17 @@
+﻿# Build artifacts
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+*.dll
+*.dSYM/
+
+# Folders
+build/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
